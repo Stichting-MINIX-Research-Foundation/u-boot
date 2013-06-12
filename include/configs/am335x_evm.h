@@ -36,6 +36,8 @@
 #define CONFIG_OF_LIBFDT
 #define CONFIG_CMD_BOOTZ
 #define CONFIG_CMDLINE_TAG		/* enable passing of ATAGs */
+#define CONFIG_CMD_UNZIP
+#define CONFIG_CMD_CACHE
 #define CONFIG_SETUP_MEMORY_TAGS
 #define CONFIG_INITRD_TAG
 
