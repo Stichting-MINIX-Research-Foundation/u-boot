@@ -1,4 +1,4 @@
-7e19da260002d519c79c35c36419beb8abe82cba  u-boot.img
-a9db61e34909964b6d1f32c3d69c73bfa2213f3f  u-boot
-5cbf1efd32d464ef465f129d7d8e641d8685d5e3  MLO
-aaf6b52c5fdb3ee8a8cc39921c56013af46cbc12  spl/u-boot-spl.bin
+eefe360a06d76b77832e8bdf575223c9397cc353  u-boot.img
+9fc6b24ddd0bd8f9ff4389d03b2738d70d60599d  u-boot
+b6b6f6cea9ed1acefd284758ec756cea9c268c11  MLO
+0b16e25af4d57480dd0671537625a98ce1855553  spl/u-boot-spl.bin
